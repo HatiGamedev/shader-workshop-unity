@@ -1,0 +1,9 @@
+*	text=auto
+
+*.cs    text    diff=csharp
+
+*.png	binary
+*.wav	binary
+*.ogg	binary
+
+*.fbx	binary
