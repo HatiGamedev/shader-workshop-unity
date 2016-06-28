@@ -41,7 +41,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 6
-  m_GIWorkflowMode: 1
+  m_GIWorkflowMode: 0
   m_LightmapsMode: 1
   m_GISettings:
     serializedVersion: 2
@@ -307,4 +307,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   NewShader: {fileID: 4800000, guid: bc96911d3342d9441ad9073792fe57e9, type: 3}
-  Intensity: -2.23
+  Intensity: 0
