@@ -14,6 +14,5 @@ public class StandardRotator : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		transform.localRotation = transform.localRotation * Quaternion.Euler(EulerAngles * Speed * Time.deltaTime);
-	
 	}
 }
